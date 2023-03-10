@@ -1,6 +1,8 @@
 # LEADDNG-DMI
+Slides Part 1:
+https://drive.google.com/file/d/1l6gEeWxXxaAiNl5YUepHppn3wKBmYRlL/view?usp=sharing
 
-Link to slides:
+Slides Part 2:
 https://drive.google.com/file/d/1jQPQjr7wja108PBraAxqut9_FGlcP8vZ/view?usp=sharing
 
 Arpeggiator (Laptop version):
@@ -15,5 +17,8 @@ https://drive.google.com/file/d/1zIg_dniyeArA8_sd5sf9dvE2mYXumPm7/view?usp=share
 Bela and motors: 
 https://drive.google.com/file/d/1xD6e8BwlYSE1y0k_LTt3hKmWceK-783T/view?usp=sharing
 
-Nicolas Collins: https://www.nicolascollins.com/
-VCV Rack: https://vcvrack.com/
+Nicolas Collins: 
+https://www.nicolascollins.com/
+
+VCV Rack: 
+https://vcvrack.com/
